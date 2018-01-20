@@ -1,0 +1,4 @@
+quiet
+exclude java/* *
+exclude jdk/* *
+exclude sun/* *
